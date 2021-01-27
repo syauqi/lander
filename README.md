@@ -19,7 +19,7 @@ Saya buat Open Souce karena untuk dijadikan portofolio
 ### 🏠 <a href="#">Homepage</a>
 **Halaman Homepage & Dokumentasi project ini sedang saya kembangkan.** oleh karena itu, mohon sabar ya teman teman untuk cara penggunaan dan dokumentasi yang diperlukan. sementara ini jika ada issues dan bug bisa menambah *issue* di repository ini.
 
-### ✨ <a href="https://lander.netlify.app/">Demo</a>
+### ✨ <a href="https://lander-website.netlify.app/">Demo</a>
 Demo dapat kalian kunjungi di https://lander.netlify.app/
 
 ### 📆 <a href="#">Release Date</a>
